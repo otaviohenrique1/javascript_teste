@@ -1,0 +1,51 @@
+npm init -y
+npx -> executa um pacote
+npm -> instala um pacote
+Comandos no back-end:
+node index.js
+npm install express
+npm install nodemon -D
+npm install knex
+npm install sqlite3
+npm install mysql
+npx knex
+npx knex init
+npx knex migrate:make create_ongs
+npx knex migrate:latest
+npx knex migrate:status
+npx knex migrate:rollback
+npx knex migrate:make create_incidents
+npm install cors
+npm install celebrate -> Instala pacote de validacao de dados
+npm install jest -D -> Instala pacote de teste
+npx jest --init -> Inicia o jest
+-Teste de integração -> Testa um fluxo de uma rota inteira da aplicacao
+-Teste unitario -> Testa um pedaço da aplicacao de forma isolada
+npm test -> Realiza o teste
+npm install cross-env
+npm install supertest -D -> Instala pacote de teste de banco de dados
+
+-------------------calcula-medida-v4-------------------
+npm start ou yarn start -> inicia a aplicacao
+npm install bootstrap reactstrap --save
+npm install graphql apollo-boost @apollo/react-hooks --save
+
+-----------------calcula-medida-v4-api-----------------
+npm start -> inicia a aplicacao
+node index.js -> inicia a aplicacao
+npm install express express-graphql graphql body-parser cors mongoose --save
+-------------------------------------------------------
+npm
+npm init
+npm install
+npm start
+node .
+electron .
+npm install --save-dev electron-reload
+set NODE-ENV=development electron . -> no windows
+NODE-ENV=development electron . -> no linux
+npm install --save mousetrap
+npm install --save-dev electron-builder
+npm run build
+npm install --save electron-updater
+npm run build

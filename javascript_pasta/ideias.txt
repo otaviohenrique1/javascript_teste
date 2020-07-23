@@ -1,0 +1,3 @@
+#Ideias
+-tradutor (portugues-ingles/ingles-portugues) feito com javascript(com ou sem react)
+-calculadora de equação de 2 grau

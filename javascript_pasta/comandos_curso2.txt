@@ -1,0 +1,38 @@
+npm init
+npm init -y
+npm install
+electron . -> inicia a aplicacao electron
+npm start ou yarn start -> inicia a aplicacao react
+npm install bootstrap reactstrap --save
+npm install electron --save-dev
+npm install graphql apollo-boost @apollo/react-hooks --save
+npm install express express-graphql graphql body-parser cors mongoose --save
+npm install @mdi/font react-router-dom pretty-checkbox --save
+
+----------------------------calcula-medida----------------------------
+npm install
+electron . -> inicia a aplicacao electron
+npm start ou yarn start -> inicia a aplicacao react
+npm install bootstrap reactstrap --save
+npm install electron --save-dev
+npm install redux react-redux --save
+npm install react-bootstrap-table-next react-bootstrap-table2-paginator react-bootstrap-table2-filter --save
+npm install react-bootstrap-table-next --save
+npm install react-bootstrap-table2-paginator --save
+npm install react-bootstrap-table2-filter --save
+npm install prop-types --save
+npm install @material-ui/icons --save
+npm install @material-ui/core --save
+npm install react-router-dom --save
+----------------------------------------------------------------------
+-------------------------site-curriculo-react-------------------------
+npm install
+npm start ou yarn start -> inicia a aplicacao react
+npm install bootstrap reactstrap --save
+----------------------------------------------------------------------
+----------------------------calcula-medida-ts----------------------------
+create-react-app calcula-medida-ts --template=typescript
+npm start ou yarn start -> inicia a aplicacao react
+npm install bootstrap reactstrap --save
+npm install @types/reactstrap -D
+----------------------------------------------------------------------
